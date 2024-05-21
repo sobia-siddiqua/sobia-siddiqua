@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sobia-siddiqua/sobia-siddiqua/blob/main/banner.png.png)
 <h1 align="center">Hi 👋, I'm Sobia Siddiqua</h1>
 <h3 align="center">A passionate engineering student learning and exploring new things everyday.</h3>
 
